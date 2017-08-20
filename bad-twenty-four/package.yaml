@@ -4,7 +4,7 @@ version: 0.1.0.0
 author:     Chris Martin <ch.martin@gmail.com>
 maintainer: Chris Martin <ch.martin@gmail.com>
 
-homepage: https://github.com/chris-martin/haskell-libraries
+homepage: https://github.com/chris-martin/bad-twenty-four
 
 library:
   source-dirs: src
